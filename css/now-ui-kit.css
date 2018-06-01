@@ -3391,12 +3391,102 @@ Created using IcoMoon - icomoon.io
         bottom: 10px;
         left: 10%;
         z-index: 10;
-        padding-top: 20px;
+        padding-top: 10px;
         padding-bottom: 20px;
         color: #fff;
         text-align: left;
     }
+    .smalest {
+      font-size: 2.0em;
+      margin-bottom: 10px;
+      font-weight: 400;
 
+       }
+
+@media screen and (max-width: 1024px) {
+
+      .carousel-caption {
+          position: absolute;
+          right: 10%;
+          top: 10px;
+          bottom: 10px;
+          left: 10%;
+          z-index: 10;
+          padding-top: 10px;
+          padding-bottom: 20px;
+          color: #fff;
+          text-align: left;
+      }
+  .smalest {
+    font-size: 2.0em;
+    margin-bottom: 10px;
+    font-weight: 400;
+
+     }
+      .carousel-caption h5 {
+          font-size: 1.2em;
+          line-height: 1.3em;
+          margin-bottom: 5px
+        }
+
+        .carousel-caption p {
+            font-size: 0.8em;
+            line-height: 1.0em;
+            margin-bottom: 10px
+          }
+  }
+
+  @media screen and (max-width: 768px) {
+    .carousel-caption {
+        position: absolute;
+        right: 10%;
+        top: 10px;
+        bottom: 10px;
+        left: 10%;
+        z-index: 10;
+        padding-top: 10px;
+        padding-bottom: 20px;
+        color: #fff;
+        text-align: left;
+    }
+    .smalest {
+      font-size: 1.8em;
+      margin-bottom: 5px;
+      font-weight: 400;
+
+       }
+        .carousel-caption h5 {
+            font-size: 1.2em;
+            line-height: 1.25em;
+            margin-bottom: 5px
+          }
+
+          .carousel-caption p {
+              font-size: 0.8em;
+              line-height: 1.0em;
+              margin-bottom: 10px
+            }
+    }
+
+    @media screen and (max-width: 736px) {
+      .smalest {
+        font-size: 1.56em;
+        margin-bottom: 5px;
+        font-weight: 400;
+
+         }
+          .carousel-caption h5 {
+              font-size: 1.0em;
+              line-height: 1.1em;
+              margin-bottom: 5px
+            }
+
+            .carousel-caption p {
+                font-size: 0.7em;
+                line-height: 1.0em;
+                margin-bottom: 10px
+              }
+      }
     /*
     Forces image to be 100% width and not max width of 100%
     */
@@ -3404,6 +3494,7 @@ Created using IcoMoon - icomoon.io
       width:110%;
 
     }
+
 
     /*
     anchors are inline so you need ot make them block to go full width
@@ -3423,7 +3514,21 @@ Created using IcoMoon - icomoon.io
   box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.3); }
 .carousel .now-ui-icons {
   font-size: 2em; }
-
+  .carousel-indicators {
+      position: absolute;
+      right: 0;
+      bottom: -21px;
+      left: 0;
+      z-index: 15;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-pack: center;
+      justify-content: center;
+      padding-left: 0;
+      margin-right: 15%;
+      margin-left: 15%;
+      list-style: none;
+  }
 .card {
   border: 0;
   border-radius: 0.1875rem;
@@ -3534,7 +3639,7 @@ Created using IcoMoon - icomoon.io
     content: " "; }
 
 .index-page .page-header {
-  height: 125vh; }
+  height: 100vh; }
   .index-page .page-header .container > .content-center {
     top: 37%; }
   .index-page .page-header .category-absolute {
@@ -3577,7 +3682,7 @@ Created using IcoMoon - icomoon.io
   margin-top: 35px; }
 
 .profile-page .page-header {
-  min-height: 550px; }
+/*  min-height: 500px;*/ }
 .profile-page .profile-container {
   color: #FFFFFF; }
 .profile-page .photo-container {
@@ -3771,8 +3876,8 @@ Created using IcoMoon - icomoon.io
   padding-top: 20vh; }
 
 .page-header {
-  height: 100vh;
-  max-height: 1050px;
+  /*height: 100vh;*/
+  max-height: 550px;
   padding: 0;
   color: #FFFFFF;
   position: relative;
@@ -5272,7 +5377,7 @@ Created using IcoMoon - icomoon.io
     transform: translateY(-50%); } }
 
     .section-frontpage {
-    padding: 120px 0;
+    padding: 120px 0 0 0;
     /*color: #888;*/
 
     }
