@@ -30,13 +30,16 @@
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://zaviya.github.io/solutions/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <loc>https://zaviya.github.io/careers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zaviya.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -45,10 +48,6 @@
   
   <url>
     <loc>https://zaviya.github.io/components/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zaviya.github.io/solutions/</loc>
   </url>
   
   <url>
@@ -76,7 +75,8 @@
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/careers/</loc>
+    <loc>https://zaviya.github.io/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>

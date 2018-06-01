@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Components on Zaviya Solutions Group</title>
+    <title>Partner for Business IT solutions on Zaviya Solutions Group</title>
     <link>https://zaviya.github.io/</link>
-    <description>Recent content in Components on Zaviya Solutions Group</description>
+    <description>Recent content in Partner for Business IT solutions on Zaviya Solutions Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
@@ -67,6 +67,35 @@
     </item>
     
     <item>
+      <title>Business Technology Solutions</title>
+      <link>https://zaviya.github.io/solutions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaviya.github.io/solutions/</guid>
+      <description>Cloud Computing Put your business on the map by leveraging the power
+of the cloud Private Cloud
+Public Cloud
+Hybrid Cloud
+Cloud Automation and Management
+  Collaboration Break communication silos with innovative solutions to accelerate performance Unified Communication
+Unified Messaging
+Web/Video Conferencing
+Collaborative Applications
+Contact Center Applications
+  Data Center/Virtualization Performance optimized Data Center &amp; Virtualization solutions
+that add value to your business Private Cloud</description>
+    </item>
+    
+    <item>
+      <title>Careers</title>
+      <link>https://zaviya.github.io/careers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaviya.github.io/careers/</guid>
+      <description>“Coming together is a beginning. Keeping together is progress. Working together is success.”  Henry Ford   Careers Would you like to be part of a winning team? Would you like to be with an organization that is innovative, team focused and service centric? Come join a group of engineers making a difference in the technology spectrum. We are growing fast which translates to limitless growth opportunities.We believe in providing World Class support and empower our customers with knowledge, clarity and a singular point of technology solution for their entire organization.</description>
+    </item>
+    
+    <item>
       <title>Components</title>
       <link>https://zaviya.github.io/comp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -96,26 +125,6 @@ that add value to your business Private Cloud</description>
 Default Round  With Icon    Simple   Pick your size
 Small Regular Large   Pick your color
 Default Primary Info Success Warning Danger Neutral   Links Default Primary Info Success Warning Danger    Inputs Form Controls</description>
-    </item>
-    
-    <item>
-      <title>Components</title>
-      <link>https://zaviya.github.io/solutions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zaviya.github.io/solutions/</guid>
-      <description>Cloud Computing Put your business on the map by leveraging the power
-of the cloud Private Cloud
-Public Cloud
-Hybrid Cloud
-Cloud Automation and Management
-  Collaboration Break communication silos with innovative solutions to accelerate performance Unified Communication
-Unified Messaging
-Web/Video Conferencing
-Collaborative Applications
-Contact Center Applications
-  Data Center/Virtualization Performance optimized Data Center &amp; Virtualization solutions
-that add value to your business Private Cloud</description>
     </item>
     
     <item>
@@ -155,15 +164,6 @@ that add value to your business Private Cloud</description>
       <guid>https://zaviya.github.io/legal/</guid>
       <description>Zaviya Solutions Group Legal Documents
 This page serves as a resource and tool for doing business with Zaviya Solutions Group Zaviya Solutions Group Equipment Sales Terms and Conditions Zaviya Solutions Group Services Terms and Conditions Zaviya Solutions Group Master Services Agreement  To learn more schedule a meeting with your Zaviya Respresentative    Let Us Help You!     </description>
-    </item>
-    
-    <item>
-      <title>Partners</title>
-      <link>https://zaviya.github.io/careers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zaviya.github.io/careers/</guid>
-      <description>“Coming together is a beginning. Keeping together is progress. Working together is success.”  Henry Ford     --  “Coming together is a beginning. Keeping together is progress. Working together is success.”  Henry Ford   Careers Would you like to be part of a winning team? Would you like to be with an organization that is innovative, team focused and service centric? Come join a group of engineers making a difference in the technology spectrum.</description>
     </item>
     
     <item>
