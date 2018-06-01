@@ -2119,6 +2119,15 @@ h1, h2, h3, h4, h5, h6 {
 small {
   font-size: 60%; }
 
+.smaller {
+  font-size: 2.5em;
+  margin-bottom: 30px;
+  font-weight: 400;
+
+   }
+
+
+
 a {
   color: #f96332; }
   a:hover, a:focus {
@@ -2129,8 +2138,8 @@ h1, .h1 {
   line-height: 1.15;
   margin-bottom: 30px; }
   h1 small, .h1 small {
-    font-weight: 700;
-    text-transform: uppercase;
+    font-weight: 400;
+  /*  text-transform: uppercase;*/
     opacity: .8; }
 
 h2, .h2 {
@@ -2158,7 +2167,8 @@ h5, .h5 {
 h6, .h6 {
   font-size: 1em;
   font-weight: 700;
-  text-transform: uppercase; }
+  text-transform: uppercase;
+margin-top: 30px}
 
 p {
   line-height: 1.61em; }
@@ -2505,7 +2515,8 @@ body {
     background-color: transparent !important;
     box-shadow: none;
     color: #888;
-    padding-top: 20px; }
+    padding-top: 20px;
+   }
   .navbar.bg-white:not(.navbar-transparent) a:not(.dropdown-item) {
     color: #888; }
     .navbar.bg-white:not(.navbar-transparent) a:not(.dropdown-item).disabled {
@@ -3479,7 +3490,23 @@ Created using IcoMoon - icomoon.io
     padding-right: 0; }
 
 .footer {
-  padding: 24px 0; }
+  padding: 24px 0;
+ }
+
+
+
+  footer li {
+      list-style-type: none;
+    }
+
+  ul.arrows > li:before {
+  content: "\f105";
+  font-family: "FontAwesome";
+  width: 10px;
+  height: 10px;
+  margin-right: 5px;
+  }
+
   .footer.footer-default {
     background-color: #f2f2f2; }
   .footer nav {
@@ -4083,15 +4110,15 @@ Created using IcoMoon - icomoon.io
     -ms-transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1);
     transition: all 0.5s cubic-bezier(0.685, 0.0473, 0.346, 1); }
     .sidebar-collapse .navbar-collapse:before {
-      background: #f96332;
+      background: #2C2C2C;
       /* For browsers that do not support gradients */
-      background: -webkit-linear-gradient(#f96332 0%, #000 80%);
+      background: -webkit-linear-gradient(#2C2C2C 0%, #000 80%);
       /* For Safari 5.1 to 6.0 */
-      background: -o-linear-gradient(#f96332 0%, #000 80%);
+      background: -o-linear-gradient(#2C2C2C 0%, #000 80%);
       /* For Opera 11.1 to 12.0 */
-      background: -moz-linear-gradient(#f96332 0%, #000 80%);
+      background: -moz-linear-gradient(#2C2C2C 0%, #000 80%);
       /* For Firefox 3.6 to 15 */
-      background: linear-gradient(#f96332 0%, #000 80%);
+      background: linear-gradient(#2C2C2C 0%, #000 80%);
       /* Standard syntax (must be last) */
       opacity: 0.76;
       filter: alpha(opacity=76);
@@ -4167,7 +4194,7 @@ Created using IcoMoon - icomoon.io
     width: 22px;
     height: 1px;
     border-radius: 1px;
-    background: #FFFFFF; }
+    background: #888; }
     .sidebar-collapse .navbar .navbar-toggler-bar + .navbar-toggler-bar {
       margin-top: 7px; }
     .sidebar-collapse .navbar .navbar-toggler-bar.bar2 {
@@ -5246,10 +5273,13 @@ Created using IcoMoon - icomoon.io
 
     .section-frontpage {
     padding: 120px 0;
+    /*color: #888;*/
+
+    }
+    .section-frontpage p {
     color: #888;
 
     }
-
 /* new */
 
 
@@ -5898,7 +5928,7 @@ a:hover {
 }
 blockquote {
   font-style: italic;
-  padding: 10px 0 10px 20px;
+  /*padding: 10px 0 10px 20px;*/
   font-size: 1.09rem;
   position: relative;
   border-color: #149dcc;
@@ -7211,5 +7241,13 @@ body {
   background-color: #2e2e2e;
 }
 
+.uppercase {
+  text-transform: uppercase;
+}
+
+.single-feature {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
 
 /*# sourceMappingURL=now-ui-kit.css.map */
