@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Zaviya Solutions Group</title>
-    <link>https://zaviya.github.io/categories/r/</link>
-    <description>Recent content in R on Zaviya Solutions Group</description>
+    <title>R on Zaviya Solutions Group - Trusted Partner for Business IT solutions</title>
+    <link>https://www.zaviya.net/categories/r/</link>
+    <description>Recent content in R on Zaviya Solutions Group - Trusted Partner for Business IT solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://zaviya.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.zaviya.net/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>example post</title>
-      <link>https://zaviya.github.io/2017/11/29/example-post/</link>
+      <link>https://www.zaviya.net/2017/11/29/example-post/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/2017/11/29/example-post/</guid>
+      <guid>https://www.zaviya.net/2017/11/29/example-post/</guid>
       <description>Awesome blog post</description>
     </item>
     

@@ -3,118 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zaviya.github.io/2017/11/29/example-post/</loc>
+    <loc>https://www.zaviya.net/2017/11/29/example-post/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/2016/12/30/a-plain-markdown-post/</loc>
+    <loc>https://www.zaviya.net/2016/12/30/a-plain-markdown-post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/2015/01/01/lorem-ipsum/</loc>
+    <loc>https://www.zaviya.net/2015/01/01/lorem-ipsum/</loc>
     <lastmod>2015-01-01T13:09:13-06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/login/</loc>
+    <loc>https://www.zaviya.net/login/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/profile/</loc>
+    <loc>https://www.zaviya.net/profile/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/about-us/</loc>
+    <loc>https://www.zaviya.net/about-us/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/solutions/</loc>
+    <loc>https://www.zaviya.net/solutions/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/careers/</loc>
+    <loc>https://www.zaviya.net/careers/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/categories/</loc>
+    <loc>https://www.zaviya.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/comp/</loc>
+    <loc>https://www.zaviya.net/comp/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/components/</loc>
+    <loc>https://www.zaviya.net/components/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/test/</loc>
+    <loc>https://www.zaviya.net/test/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/contact/</loc>
+    <loc>https://www.zaviya.net/contact/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/tags/example/</loc>
+    <loc>https://www.zaviya.net/tags/example/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/categories/hugo/</loc>
+    <loc>https://www.zaviya.net/categories/hugo/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/legal/</loc>
+    <loc>https://www.zaviya.net/legal/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/</loc>
-    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
+    <loc>https://www.zaviya.net/partners/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/partners/</loc>
-  </url>
-  
-  <url>
-    <loc>https://zaviya.github.io/post/</loc>
+    <loc>https://www.zaviya.net/post/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/public-sector/</loc>
+    <loc>https://www.zaviya.net/public-sector/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/categories/r/</loc>
+    <loc>https://www.zaviya.net/categories/r/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/tags/</loc>
+    <loc>https://www.zaviya.net/tags/</loc>
     <lastmod>2017-11-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/landing/</loc>
+    <loc>https://www.zaviya.net/</loc>
+    <lastmod>2017-11-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/new/</loc>
+    <loc>https://www.zaviya.net/landing/</loc>
   </url>
   
   <url>
-    <loc>https://zaviya.github.io/template/</loc>
+    <loc>https://www.zaviya.net/new/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.zaviya.net/template/</loc>
   </url>
   
 </urlset>
