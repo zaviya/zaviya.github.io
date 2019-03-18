@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Zaviya Solutions Group - Trusted Partner for Business IT solutions</title>
-    <link>https://zaviya.github.io/categories/</link>
+    <link>https://www.zaviya.net/categories/</link>
     <description>Recent content in Categories on Zaviya Solutions Group - Trusted Partner for Business IT solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://zaviya.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.zaviya.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>https://zaviya.github.io/categories/hugo/</link>
+      <link>https://www.zaviya.net/categories/hugo/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/categories/hugo/</guid>
+      <guid>https://www.zaviya.net/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://zaviya.github.io/categories/r/</link>
+      <link>https://www.zaviya.net/categories/r/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/categories/r/</guid>
+      <guid>https://www.zaviya.net/categories/r/</guid>
       <description></description>
     </item>
     

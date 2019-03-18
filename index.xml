@@ -2,76 +2,76 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trusted Partner for Business IT solutions on Zaviya Solutions Group - Trusted Partner for Business IT solutions</title>
-    <link>https://zaviya.github.io/</link>
+    <link>https://www.zaviya.net/</link>
     <description>Recent content in Trusted Partner for Business IT solutions on Zaviya Solutions Group - Trusted Partner for Business IT solutions</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://zaviya.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.zaviya.net/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>example post</title>
-      <link>https://zaviya.github.io/2017/11/29/example-post/</link>
+      <link>https://www.zaviya.net/2017/11/29/example-post/</link>
       <pubDate>Wed, 29 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/2017/11/29/example-post/</guid>
+      <guid>https://www.zaviya.net/2017/11/29/example-post/</guid>
       <description>Awesome blog post</description>
     </item>
     
     <item>
       <title>A Plain Markdown Post</title>
-      <link>https://zaviya.github.io/2016/12/30/a-plain-markdown-post/</link>
+      <link>https://www.zaviya.net/2016/12/30/a-plain-markdown-post/</link>
       <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
       
-      <guid>https://zaviya.github.io/2016/12/30/a-plain-markdown-post/</guid>
+      <guid>https://www.zaviya.net/2016/12/30/a-plain-markdown-post/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
     </item>
     
     <item>
       <title>Lorem Ipsum</title>
-      <link>https://zaviya.github.io/2015/01/01/lorem-ipsum/</link>
+      <link>https://www.zaviya.net/2015/01/01/lorem-ipsum/</link>
       <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
       
-      <guid>https://zaviya.github.io/2015/01/01/lorem-ipsum/</guid>
+      <guid>https://www.zaviya.net/2015/01/01/lorem-ipsum/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zaviya.github.io/login/</link>
+      <link>https://www.zaviya.net/login/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/login/</guid>
+      <guid>https://www.zaviya.net/login/</guid>
       <description>         Get Started   Create Account    Need Help?     </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://zaviya.github.io/profile/</link>
+      <link>https://www.zaviya.net/profile/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/profile/</guid>
+      <guid>https://www.zaviya.net/profile/</guid>
       <description>Follow      About me An artist of considerable range, Ryan — the name taken by Melbourne-raised, Brooklyn-based Nick Murphy — writes, performs and records all of his own music, giving it a warm, intimate feel with a solid groove structure. An artist of considerable range. My Portfolio                             </description>
     </item>
     
     <item>
       <title>About Us</title>
-      <link>https://zaviya.github.io/about-us/</link>
+      <link>https://www.zaviya.net/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/about-us/</guid>
+      <guid>https://www.zaviya.net/about-us/</guid>
       <description>Would you like to know who We are? Here is some more information about our Organization! Zaviya Group creates next generation architectural solutions that combine value, performance and operation brilliance created with your business model in mind. Our Motto has been service excellence from the very beginning and we hold that concept dearly in everything we do. We are a group of engineers and business professionals with a mutual goal of eliminating IT headaches, avoiding unnecessary forklift upgrades and building a future proof infrastructure.</description>
     </item>
     
     <item>
       <title>Business Technology Solutions</title>
-      <link>https://zaviya.github.io/solutions/</link>
+      <link>https://www.zaviya.net/solutions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/solutions/</guid>
+      <guid>https://www.zaviya.net/solutions/</guid>
       <description>Cloud Computing Put your business on the map by leveraging the power
 of the cloud Private Cloud
 Public Cloud
@@ -88,19 +88,19 @@ that add value to your business Private Cloud</description>
     
     <item>
       <title>Careers</title>
-      <link>https://zaviya.github.io/careers/</link>
+      <link>https://www.zaviya.net/careers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/careers/</guid>
+      <guid>https://www.zaviya.net/careers/</guid>
       <description>“Coming together is a beginning. Keeping together is progress. Working together is success.”  Henry Ford   Careers Would you like to be part of a winning team? Would you like to be with an organization that is innovative, team focused and service centric? Come join a group of engineers making a difference in the technology spectrum. We are growing fast which translates to limitless growth opportunities.We believe in providing World Class support and empower our customers with knowledge, clarity and a singular point of technology solution for their entire organization.</description>
     </item>
     
     <item>
       <title>Components</title>
-      <link>https://zaviya.github.io/comp/</link>
+      <link>https://www.zaviya.net/comp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/comp/</guid>
+      <guid>https://www.zaviya.net/comp/</guid>
       <description>Cloud Computing Put your business on the map by leveraging the power
 of the cloud Private Cloud
 Public Cloud
@@ -117,10 +117,10 @@ that add value to your business Private Cloud</description>
     
     <item>
       <title>Components</title>
-      <link>https://zaviya.github.io/components/</link>
+      <link>https://www.zaviya.net/components/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/components/</guid>
+      <guid>https://www.zaviya.net/components/</guid>
       <description>Now UI Kit. A beautiful Bootstrap 4 UI kit. Yours free.  Designed by . Coded by . --          Basic Elements Buttons Pick your style
 Default Round  With Icon    Simple   Pick your size
 Small Regular Large   Pick your color
@@ -129,10 +129,10 @@ Default Primary Info Success Warning Danger Neutral   Links Default Primary Info
     
     <item>
       <title>Components</title>
-      <link>https://zaviya.github.io/test/</link>
+      <link>https://www.zaviya.net/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/test/</guid>
+      <guid>https://www.zaviya.net/test/</guid>
       <description>-- --       Cloud Computing Put your business on the map by leveraging the power
 of the cloud Private Cloud
 Public Cloud
@@ -149,57 +149,57 @@ that add value to your business Private Cloud</description>
     
     <item>
       <title>Contact</title>
-      <link>https://zaviya.github.io/contact/</link>
+      <link>https://www.zaviya.net/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/contact/</guid>
+      <guid>https://www.zaviya.net/contact/</guid>
       <description>We Would Love to Hear From You! Get in Touch with Us to start your technology transformation today! Get in touch with us for a free consultation of your current network or simply to ask for advice about a new technology. We may not have all the answers but we promise to discover them with you. Fill out the brief questionnaire below to have someone from our Team follow-up with you.</description>
     </item>
     
     <item>
       <title>Legal</title>
-      <link>https://zaviya.github.io/legal/</link>
+      <link>https://www.zaviya.net/legal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/legal/</guid>
+      <guid>https://www.zaviya.net/legal/</guid>
       <description>Zaviya Solutions Group Legal Documents
 This page serves as a resource and tool for doing business with Zaviya Solutions Group Zaviya Solutions Group Equipment Sales Terms and Conditions Zaviya Solutions Group Services Terms and Conditions Zaviya Solutions Group Master Services Agreement  To learn more schedule a meeting with your Zaviya Respresentative    Let Us Help You!     </description>
     </item>
     
     <item>
       <title>Partners</title>
-      <link>https://zaviya.github.io/partners/</link>
+      <link>https://www.zaviya.net/partners/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/partners/</guid>
+      <guid>https://www.zaviya.net/partners/</guid>
       <description>“Our success has really been based on partnerships from the very beginning.”  Bill Gates - Founder of Microsoft Corp   Zaviya solutions Group partners with industry leaders, innovators and niche vendors to bring the right solution to your environment. Our motto has been service excellence from the very beginning and we hold that concept dearly in every aspect of our business. We understand that the right partnership based on long term strategy, vision and synergy can be difference between a great solution and an IT headache.</description>
     </item>
     
     <item>
       <title>Public Sector</title>
-      <link>https://zaviya.github.io/public-sector/</link>
+      <link>https://www.zaviya.net/public-sector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/public-sector/</guid>
+      <guid>https://www.zaviya.net/public-sector/</guid>
       <description>Zaviya Solutions Group understands that enterprises are not the only ones facing technology challenges and we are here to help. We provide a range of technology solutions to all public sector entities and their affiliates. Our experts have years of experience in optimizing data center operations, launching global collaboration solutions, enhancing network security capabilities and laying the foundation of an efficient IT environment.
    We proudly service the following public sector entities and their affiliates!</description>
     </item>
     
     <item>
       <title>Write the best title for your page.</title>
-      <link>https://zaviya.github.io/landing/</link>
+      <link>https://www.zaviya.net/landing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/landing/</guid>
+      <guid>https://www.zaviya.net/landing/</guid>
       <description>Who are we? According to the National Oceanic and Atmospheric Administration, Ted, Scambos, NSIDC lead scentist, puts the potentially record low maximum sea ice extent tihs year down to low ice extent in the Pacific and a late drop in ice extent in the Barents Sea.    &#34;Over the span of the satellite record, Arctic sea ice has been declining significantly, while sea ice in the Antarctichas increased very slightly&#34;</description>
     </item>
     
     <item>
       <title>Write the best title for your page.</title>
-      <link>https://zaviya.github.io/new/</link>
+      <link>https://www.zaviya.net/new/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/new/</guid>
+      <guid>https://www.zaviya.net/new/</guid>
       <description>Cloud Computing Put your business on the map by leveraging the power
 of the cloud Private Cloud
 Public Cloud
@@ -216,10 +216,10 @@ that add value to your business Private Cloud</description>
     
     <item>
       <title>Write the best title for your page.</title>
-      <link>https://zaviya.github.io/template/</link>
+      <link>https://www.zaviya.net/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zaviya.github.io/template/</guid>
+      <guid>https://www.zaviya.net/template/</guid>
       <description>Here comes the body of the page&amp;hellip;
 ## Look, a code block! library(tidyverse) 1 + 1  </description>
     </item>
